@@ -30,7 +30,7 @@ Backend API for the educational platform built with .NET using Clean Architectur
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/EduApplication/edu-api
 cd EduApi
 ```
 
